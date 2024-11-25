@@ -177,3 +177,18 @@ a {
   font-style: italic;
   text-align: center;
 }
+.flex-animals {
+  display: flex;
+  justify-content: space-evenly;
+}
+.flex-buttom {
+  width: 1500px;
+  border-radius: 20px;
+  padding: 40px;
+  background-color: #f9edc0(0, 0%, 100%);
+  margin-right: 350px;
+  margin-left: 350px;
+  display: flex;
+  gap: 500px;
+  justify-content: space-between;
+}
