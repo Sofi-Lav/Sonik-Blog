@@ -181,14 +181,15 @@ a {
   display: flex;
   justify-content: space-evenly;
 }
-.flex-buttom {
-  width: 1500px;
+.flex-button {
+  width: 1200px;
   border-radius: 20px;
-  padding: 40px;
+  padding: 20px;
   background-color: #f9edc0(0, 0%, 100%);
-  margin-right: 350px;
-  margin-left: 350px;
+  margin-right: 150px;
+  margin-left: 150px;
   display: flex;
   gap: 500px;
   justify-content: space-between;
+  outline: #d61515;
 }
