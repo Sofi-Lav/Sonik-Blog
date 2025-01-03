@@ -190,6 +190,7 @@ a {
   margin-left: 150px;
   display: flex;
   gap: 500px;
+  display: flex;
   justify-content: space-between;
   outline: #d61515;
 }
